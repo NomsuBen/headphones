@@ -193,7 +193,8 @@ section div div {
     background-size: cover;
     position: relative;
     justify-content: center;
-    height: 650px;
+    padding-top: 20px;
+    padding-bottom: 60px;
     flex-shrink: 0;
 }
 
