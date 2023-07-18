@@ -265,7 +265,7 @@ form {
     display: flex;
     flex-direction: column;
     gap: 30px;
-    padding-bottom: 40px;
+    padding-bottom: 60px;
 }
 
 form input {
